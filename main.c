@@ -2,6 +2,6 @@
 #include <stdio.h>
 main() {
 factorial();
-biggest3();
+biggest3(); 
 reverse();
 }
